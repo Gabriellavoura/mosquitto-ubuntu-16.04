@@ -1,5 +1,5 @@
 # mosquitto-ubuntu-16.04
-How to install mosquitto broker on ubunu 16.04.
+How to install mosquitto broker on ubuntu 16.04.
 
 ## Update - (28/06/2016)
 
@@ -20,7 +20,7 @@ How to install mosquitto broker on ubunu 16.04.
   
  > $ mosquitto -v
  
-###### _If everything is ok, you'll see something like:_
+###### _If everything is ok, you'll see something like this:_
  
  ```
  mosquitto version 1.4.10 (build date Thu, 25 Aug 2016 15:32:03 +0100) starting
