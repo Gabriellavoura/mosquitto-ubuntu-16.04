@@ -4,7 +4,9 @@ How to install mosquitto broker on ubuntu 16.04.
 ## Update - (28/06/2016)
 
 #### 1º - Add the mosquitto-dev PPA to your repositories list :
+
   > $ sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
+  
   > $ sudo apt-get update
   
 ###### _If the command “apt-add-repository” is not recognised, it can be installed with:_
