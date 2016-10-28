@@ -34,7 +34,7 @@ How to install mosquitto broker on ubuntu 16.04.
 #### 3º - Install mosquitto-clients from PPA :
    > $ sudo apt-get install mosquitto-clients
   
-  _Now you can run commands like mosquitto_pub and mosquitto_sub._
+######  _Now you can run commands like mosquitto_pub and mosquitto_sub._
   
   _**That's all folks!**_
   
